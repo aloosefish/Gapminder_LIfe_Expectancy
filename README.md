@@ -1,1 +1,1 @@
-This is a DataCamp project exploring differences in life expectancy around the world using data from [Gapminder](https://www.gapminder.org).
+This is a DataCamp project exploring differences in life expectancy around the world using data from [Gapminder](https://www.gapminder.org). View the Jupyter notebook [here](https://nbviewer.jupyter.org/github/aloosefish/Gapminder_LIfe_Expectancy/blob/master/notebook.ipynb).
